@@ -1,14 +1,70 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "first_name" : "a_first",
+      "last_name" : "a_last",
+      "email_id" : "a@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "b_first",
+      "last_name" : "b_last",
+      "email_id" : "b@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "c_first",
+      "last_name" : "c_last",
+      "email_id" : "c@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "d_first",
+      "last_name" : "d_last",
+      "email_id" : "d@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "e_first",
+      "last_name" : "e_last",
+      "email_id" : "e@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "f_first",
+      "last_name" : "f_last",
+      "email_id" : "f@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "g_first",
+      "last_name" : "g_last",
+      "email_id" : "g@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "h_first",
+      "last_name" : "h_last",
+      "email_id" : "h@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "i_first",
+      "last_name" : "i_last",
+      "email_id" : "i@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "j_first",
+      "last_name" : "j_last",
+      "email_id" : "j@text.com",
+      "is_paid" : false
+    },
+    {
+      "first_name" : "k_first",
+      "last_name" : "k_last",
+      "email_id" : "l@text.com",
+      "is_paid" : false
+    }
+  ]
 }
