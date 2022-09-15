@@ -1,4 +1,5 @@
-[{"id":1,"first_name":"Richmound","last_name":"Endon","email_id":"rendon0@behance.net","is_paid":false},
+{
+  "users" : [{"id":1,"first_name":"Richmound","last_name":"Endon","email_id":"rendon0@behance.net","is_paid":false},
 {"id":2,"first_name":"Stevie","last_name":"Dumingos","email_id":"sdumingos1@unblog.fr","is_paid":true},
 {"id":3,"first_name":"Blakelee","last_name":"McGaraghan","email_id":"bmcgaraghan2@moonfruit.com","is_paid":false},
 {"id":4,"first_name":"Lindsay","last_name":"Sancraft","email_id":"lsancraft3@shop-pro.jp","is_paid":true},
@@ -97,4 +98,6 @@
 {"id":97,"first_name":"Aile","last_name":"Clash","email_id":"aclash2o@reddit.com","is_paid":false},
 {"id":98,"first_name":"Normand","last_name":"Gimblet","email_id":"ngimblet2p@delicious.com","is_paid":false},
 {"id":99,"first_name":"Alissa","last_name":"McIlwrath","email_id":"amcilwrath2q@delicious.com","is_paid":false},
-{"id":100,"first_name":"Jemmie","last_name":"Flipsen","email_id":"jflipsen2r@unesco.org","is_paid":false}]
+{"id":100,"first_name":"Jemmie","last_name":"Flipsen","email_id":"jflipsen2r@unesco.org","is_paid":false}
+    ]
+}
