@@ -5,7 +5,7 @@
 "first_name": "Richmound",
 "last_name": "Endon",
 "email_id": "rendon0@behance.net",
-"is_paid": false
+"is_paid": true
 },
 {
 "id": 2,
@@ -19,7 +19,7 @@
 "first_name": "Blakelee",
 "last_name": "McGaraghan",
 "email_id": "bmcgaraghan2@moonfruit.com",
-"is_paid": false
+"is_paid": true
 },
 {
 "id": 4,
@@ -33,7 +33,7 @@
 "first_name": "Willis",
 "last_name": "Manthorpe",
 "email_id": "wmanthorpe4@flavors.me",
-"is_paid": false
+"is_paid": true
 },
 {
 "id": 6,
